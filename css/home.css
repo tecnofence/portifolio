@@ -1,0 +1,42 @@
+
+.redes-sociais {
+  margin-top: 80px;
+}
+
+.redes-sociais img {
+  border: 1px solid #FF4A57;
+  border-radius: 50%;
+  margin-right: 30px;
+}
+
+.redes-sociais img:hover {
+  background: #FF4A57;
+  transform: scale(1.2);
+}
+
+
+h1 {
+  font-size: 58px;
+}
+
+p {
+  font-size: 18px;
+}
+
+.polaroid {
+  width: 304px;
+  border: 20px solid white;
+  border-bottom: 60px solid white;
+  transform: rotate(15deg);
+}
+
+.polaroid:hover {
+  transform: rotate(18deg);
+}
+
+
+
+
+
+
+
